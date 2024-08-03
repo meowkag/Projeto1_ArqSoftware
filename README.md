@@ -1,7 +1,7 @@
 # Projeto1_ArqSoftware
 Projeto 1 (Padrões de projeto e refatoração)
 
-1. Padrões de Projeto Utilizados
+## 1. Padrões de Projeto Utilizados
 
 # Factory Method
 
@@ -27,7 +27,7 @@ O padrão Observer foi adotado para permitir que diferentes partes do sistema se
 Justificativa:  
 O Observer promove um sistema desacoplado, permitindo que diversas partes do código reajam a eventos (como a geração de um relatório) sem precisar de uma conexão direta. Isso cumpre o Princípio da Responsabilidade Única (Single Responsibility Principle - SRP), separando a lógica de notificação da lógica de geração de relatórios.
 
- 2. Refatorações Baseadas nos Princípios SOLID
+ ## 2. Refatorações Baseadas nos Princípios SOLID
 
 # 2.1 Princípio da Responsabilidade Única (SRP)
 
@@ -53,7 +53,7 @@ As classes que utilizam parsers e adapters não dependem de implementações con
 Justificativa:  
 Isso facilita a substituição de implementações concretas sem alterar as classes que delas dependem, promovendo um design mais flexível e testável.
 
- 3. Explicação do Script de Teste
+ ## 3. Explicação do Script de Teste
 
 # 3.1 Finalidade do Script de Teste
 
