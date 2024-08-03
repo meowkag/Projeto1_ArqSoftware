@@ -1,0 +1,11 @@
+{
+  "name": "projeto1_arqsoftware",
+  "version": "1.0.0",
+  "description": "Projeto 1 (Padrões de projeto e refatoração)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
